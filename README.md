@@ -1,2 +1,2 @@
-# NEWS_Application
+# NEWS Application
 
